@@ -1,0 +1,2 @@
+str="sujal"
+print(str)

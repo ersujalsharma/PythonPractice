@@ -1,0 +1,10 @@
+mystr="sujal is Hero"
+print(mystr.isalnum())
+print(mystr.isalpha())
+print(mystr.endswith("Hero"))
+print(mystr.count("a"))
+print(mystr.capitalize())
+print(mystr.find("Sujal"))
+print(mystr.lower())
+print(mystr.upper())
+print(mystr.replace("is","are"))

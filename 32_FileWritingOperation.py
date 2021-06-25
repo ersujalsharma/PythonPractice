@@ -1,0 +1,6 @@
+f = open("Hello.txt","w")
+f.write("HEy Pagla")
+print(f)
+f = open("Hello.txt","a")
+a = f.write("Sujal sharma")
+print(a)
